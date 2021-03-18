@@ -7,5 +7,4 @@ public class samplesdemo {
 		System.out.print("Git is cool");
 		
 	}
-
 }
